@@ -1,0 +1,6 @@
+# 项目级 uv 配置：依赖统一走清华源
+# 有它，任何新电脑 clone 本仓库后无需再配置镜像
+[[index]]
+name = "tsinghua"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+default = true
